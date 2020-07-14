@@ -1,0 +1,28 @@
+
+.post-heading{
+
+    position: relative;
+
+    
+    background: #FFFFFF;
+    border: 2px solid #F53838;
+    box-sizing: border-box;
+    border-radius: 10px;
+
+}
+.post-body{
+    position: relative;
+
+
+font-family: sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+/* or 187% */
+
+display: flex;
+align-items: center;
+
+color: #0B132A;
+}

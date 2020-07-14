@@ -1,0 +1,39 @@
+.img-logo{
+    position: absolute;
+width: 149px;
+height: 36.23px;
+margin-left: 150px;
+    
+}
+.text-content {
+width: 340px;
+height: 61.57px;
+margin-left: 150px;
+font-family: sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 30px;
+color: #4F5665;
+margin-top: 56px;
+
+}
+.img-facebook{
+    margin-left: 150px;
+    
+width: 33.6px;
+height: 33.6px;
+left: 150px;
+}
+.img-insta{
+    
+width: 33.6px;
+height: 33.6px;
+left: 203.6px;
+}
+.img-twitter{
+    
+width: 33.6px;
+height: 33.6px;
+left: 257.2px;
+}

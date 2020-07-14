@@ -1,0 +1,31 @@
+.title-heading{
+font-style: normal;
+font-weight: 500;
+font-size: 35px;
+line-height: 50px;
+text-align: center;
+color: #0B132A;
+margin-top: 150px;
+
+}
+.section-text{
+font-family:sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+text-align: center;
+color: #4F5665;
+margin-top: 35px;
+}
+.img-map{  
+width: 1060px;
+height: 537.77px;
+margin-top: 155px;
+opacity: 1.5;
+}
+.img-sponsored{
+ position: relative;
+width: 1135.64px;
+height: 208.32px;
+}
