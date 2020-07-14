@@ -1,0 +1,48 @@
+.about-title{
+width: 555px;
+height: 140px;
+margin-left: 75px;
+margin-top: 206.77px;
+font-family: sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 50px;
+line-height: 70px;
+color: #0B132A;}
+
+.about-text{
+  
+width: 555px;
+height: 60px;
+margin-left: 75px;
+margin-top: 30;
+font-family: sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+color: #4F5665;
+}
+
+.main-button{
+width: 250px;
+height: 60px;
+left: 150px;
+top: 476.77px;
+
+background: #F53838;
+border-radius: 10px;}
+
+.main-btn-text{
+    
+width: 95px;
+height: 25px;
+left: 227.5px;
+top: 494.27px;
+font-family: sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 25px;
+color: #FFFFFF;
+}
