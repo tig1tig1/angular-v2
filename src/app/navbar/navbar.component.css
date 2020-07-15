@@ -1,0 +1,27 @@
+.nav-items{
+    display: flex;
+    justify-content: space-evenly;
+    line-height: 40px;
+}
+.nav-item{
+    margin-right: 20px;
+    margin-left: 20px;
+    text-align: center;
+    justify-content: space-evenly;
+    color: black;
+    
+
+}
+.logo{
+    height: 24px;
+    margin-top: 66px;
+    padding-left: 195px;
+}
+.btn-in{
+    margin-top: 56px;
+    height: 19px;
+    display: flex;
+    border: none;
+    background-color: white;
+    
+}

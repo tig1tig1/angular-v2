@@ -29,7 +29,9 @@ width: 250px;
 height: 60px;
 margin-left: 75px;
 margin-top: 50px;
-
+outline: hidden;
+outline-color: white;
 background: #F53838;
 border-radius: 10px;
+color: white;
 }
