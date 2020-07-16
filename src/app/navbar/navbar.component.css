@@ -15,7 +15,7 @@
 .logo{
     height: 24px;
     margin-top: 56.12px;
-    padding-left: 195px;
+    padding-left: 136.4px;
     text-align: start;
 }
 .btn-in{
@@ -40,5 +40,6 @@ font-style: normal;
 font-weight: 500;
 font-size: 16px;
 background-color: white;
+margin-right: 100px;
 
 }
