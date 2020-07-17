@@ -80,9 +80,50 @@
     display: block;
     font-size: 32px;
     font-weight: 700;
+    margin-top: 130px;
+  }
+
+  .pricing-price-3 {
+    color: #0B132A;
+    display: block;
+    font-size: 32px;
+    font-weight: 700;
+    margin-top: 30px;
+  }
+
+  .pricing-price-2 {
+    color: #0B132A;
+    display: block;
+    font-size: 32px;
+    font-weight: 700;
+    margin-top: 80px;
   }
   
   .pricing-button {
+    border: 1px solid #f53838;
+    border-radius: 10px;
+    color: #f53838;
+    display: inline-block;
+    margin: 25px 0;
+    padding: 15px 35px;
+    text-decoration: none;
+    
+    transition: all 150ms ease-in-out;
+  }
+
+  .pricing-button-2 {
+    border: 1px solid #f53838;
+    border-radius: 10px;
+    color: #f53838;
+    display: inline-block;
+    margin-top: 20px;
+    padding: 15px 35px;
+    text-decoration: none;
+    
+    transition: all 150ms ease-in-out;
+  }
+
+  .pricing-button-3 {
     border: 1px solid #f53838;
     border-radius: 10px;
     color: #f53838;

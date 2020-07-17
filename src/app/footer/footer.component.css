@@ -42,11 +42,23 @@ left: 257.2px;
 }
 
 .list-unstyled-2{
-
+text-align: center;
+margin-left: 100px;
 }
 .list-unstyled{
-    margin-left: 230px;
+    text-align: start;
 }
 .list-item{
     text-align: center;
+}
+.text-uppercase{
+    
+    text-align: start;
+}
+.footer-2020{
+    margin-left: 150px;
+}
+.text-uppercase-2{
+    margin-top: 20px;
+    text-align: end;
 }

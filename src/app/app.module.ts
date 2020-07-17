@@ -10,6 +10,7 @@ import { NavbarComponent } from './navbar/navbar.component';
 import { FeaturesComponent } from './features/features.component';
 import { TestamonialsComponent } from './testamonials/testamonials.component';
 import { AboutComponent } from './about/about.component';
+import { UslComponent } from './usl/usl.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +21,8 @@ import { AboutComponent } from './about/about.component';
     NavbarComponent,
     FeaturesComponent,
     TestamonialsComponent,
-    AboutComponent
+    AboutComponent,
+    UslComponent
   ],
   imports: [
     BrowserModule,
