@@ -90,6 +90,7 @@
     margin: 25px 0;
     padding: 15px 35px;
     text-decoration: none;
+    
     transition: all 150ms ease-in-out;
   }
   
@@ -109,17 +110,14 @@
   }
 
   .price-title{
-margin-top: 205px;
-    
+margin-top: 205px; 
 width: 383.41px;
 height: 50px;
-left: 528.3px;
-
 font-family: sans-serif;
 font-style: normal;
 font-weight: 500;
 font-size: 35px;
 line-height: 50px;
-text-align: center;
+
 color: #0B132A;
   }
