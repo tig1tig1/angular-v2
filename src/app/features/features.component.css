@@ -6,7 +6,7 @@ left: 184.52px;
 }
 .feature-title{
 margin-top: 150px;
-left: 169.12px;
+margin-left: 169.12px;
 
 font-family: sans-serif;
 font-style: normal;
@@ -19,7 +19,7 @@ color: #0B132A;}
     
 width: 427.88px;
 height: 60px;
-left: 169.12px;
+margin-left: 169.12px;
 font-family: sans-serif;
 font-style: normal;
 font-weight: normal;
@@ -32,4 +32,28 @@ color: #4F5665;
     margin-top: 95.83px;
     width: 508.12px;
     height: 414.71px;
+}
+.feature-list{
+    margin-left: 150px;
+}
+.list-item{
+    
+width: 179px;
+height: 30px;
+text-align: start;
+
+
+font-family: sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 30px;
+
+color: #4F5665;
+}
+.list-img{
+    width: 24px;
+    height: 24px;
+    text-align: start;
+    display: flex;
 }
